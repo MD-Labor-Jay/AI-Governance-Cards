@@ -40,7 +40,7 @@ The tool generates large code blocks based on prompts (for example, Google AI St
 
 ## 4.0 Developer Roadmap (​Mandatory Do’​s and Don’ts)​​
 
-![Coding Assistant Implemetation Roadmap](images/Coding%20Assistant%20Implemetation%20Roadmap.png)
+![Coding Assistant Implementation Roadmap](images/Coding%20Assistant%20Implementation%20Roadmap.png)
 
 ### Phase 1: Setup and Configuration​​​
 
