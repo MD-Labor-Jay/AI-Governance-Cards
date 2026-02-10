@@ -36,7 +36,7 @@ The tool generates large code blocks based on prompts (for example, Google AI St
 
 ​​According to the standards in the State of Maryland’s AI risk assessment matrix, AI coding assistants are broadly classified as Limited Risk because they do not autonomously decide critical outcomes for individuals. Human developers and testers are the final decision-makers, because Maryland does not allow AI to make autonomous choices when used for State business.
 
-​​However, the risk tier escalates to High if state staff give​ coding assistants access to sensitive files, ask it to execute commands without explicit approval, or if the tool's privacy settings enable data training. Additionally, Maryland law prohibits using coding assistants from companies based outside of the U.S. (e.g., Mistral, Qwen) due to physical access control requirements.
+However, the risk tier escalates to High if state staff give coding assistants access to sensitive files, ask it to execute commands without explicit approval, or if the tool's privacy settings enable data training. Additionally, Maryland law prohibits using coding assistants from companies based outside of the U.S. (e.g., Mistral, Qwen) due to physical access control requirements.
 
 ## 4.0 Developer Roadmap (​Mandatory Do’​s and Don’ts)​​
 
