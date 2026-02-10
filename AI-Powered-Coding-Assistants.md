@@ -1,6 +1,6 @@
 # AI Governance Card: AI-Powered Coding Assistance Tools
 
-* ​​​​​​​​​​​​​​​​​​​​​Last Revised: `01/22/26`
+* Last Revised: `01/22/26`
 * Date Issued: `01/27/2026`
 * Version: `2.0`
 * Author: Solomon Abiola, Lauren Maffeo
@@ -26,7 +26,7 @@
 ### Low Autonomy (Code Completion): ​​
 The tool offers single-line suggestions as the developer types (for example, GitHub Copilot inline). The developer acts as the primary author, and risk is minimal/limited because human review is constant.
 
-### ​​Medium Autono​my (Conversational/Batch):
+### Medium Autonomy (Conversational/Batch):
 The tool generates large code blocks based on prompts (for example, Google AI Studio). The developer acts as a reviewer/editor, and risk is limited, mitigated by the deliberate human action of copying and pasting the code.​​
 
 ### ​​High Autonomy (Agentic/Asynchronous):
@@ -36,7 +36,7 @@ The tool generates large code blocks based on prompts (for example, Google AI St
 
 ​​According to the standards in the State of Maryland’s AI risk assessment matrix, AI coding assistants are broadly classified as Limited Risk because they do not autonomously decide critical outcomes for individuals. Human developers and testers are the final decision-makers, because Maryland does not allow AI to make autonomous choices when used for State business.
 
-​​However, the risk tier escalates to High if state staff give​ coding assistants access to sensitive files, ask it to execute commands without explicit approval, or if the tool's privacy settings enable data training. Additionally, Maryland law prohibits using coding assistants from companies based outside of the U.S. (e.g., Mistral, Qwen) due to physical access control requirements.
+However, the risk tier escalates to High if state staff give coding assistants access to sensitive files, ask it to execute commands without explicit approval, or if the tool's privacy settings enable data training. Additionally, Maryland law prohibits using coding assistants from companies based outside of the U.S. (e.g., Mistral, Qwen) due to physical access control requirements.
 
 ## 4.0 Developer Roadmap (​Mandatory Do’​s and Don’ts)​​
 
