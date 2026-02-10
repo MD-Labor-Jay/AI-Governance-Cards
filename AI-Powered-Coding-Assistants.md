@@ -1,6 +1,6 @@
 # AI Governance Card: AI-Powered Coding Assistance Tools
 
-* ​​​​​​​​​​​​​​​​​​​​​Last Revised: `01/22/26`
+* Last Revised: `01/22/26`
 * Date Issued: `01/27/2026`
 * Version: `2.0`
 * Author: Solomon Abiola, Lauren Maffeo
