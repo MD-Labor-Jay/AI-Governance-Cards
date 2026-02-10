@@ -26,7 +26,7 @@
 ### Low Autonomy (Code Completion): ​​
 The tool offers single-line suggestions as the developer types (for example, GitHub Copilot inline). The developer acts as the primary author, and risk is minimal/limited because human review is constant.
 
-### ​​Medium Autono​my (Conversational/Batch):
+### Medium Autonomy (Conversational/Batch):
 The tool generates large code blocks based on prompts (for example, Google AI Studio). The developer acts as a reviewer/editor, and risk is limited, mitigated by the deliberate human action of copying and pasting the code.​​
 
 ### ​​High Autonomy (Agentic/Asynchronous):
